@@ -1,4 +1,5 @@
-### Hi there 👋
+### Let's shape the Future! 👋
+Hi, I'm Kevin, and I love to learn sth. new. 
 
 <!--
 **wsdt/wsdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
