@@ -23,7 +23,7 @@ Some key facts to keep it simple:
 
 Links: 
 * Website: www.wavect.io
-* Github: @wsdt
+* LinkedIn: @wsdt
 * Instagram: @wavect.io 
 * Podcast on Anchor: @wavect
 * Facebook: @wavect
