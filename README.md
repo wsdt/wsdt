@@ -1,4 +1,4 @@
-**Software & DevOps Engineer specialized on GovTech (e.g. IoT), FinTech & SportsTech.**
+**Software & DevOps Engineer specialized on GovTech (e.g. IoT), FinTech (e.g. Blockchain) & SportsTech.**
 Reach out if you need help with your mobile/web application, Docker/Kubernetes, IoT or have an interesting project in your mind! Would love to hear about your vision.
 
 Offering..
