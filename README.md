@@ -6,7 +6,7 @@ Offering..
 * Software Development/Engineering in ~10 programming languages
 * Technical consultancy & business model evaluation for startups & companies of all sizes.
 * DevOps: Docker, Kubernetes (also having experience with Windows Containers), ..
-* Specialized in GovTech (e.g. IoT), FinTech & SportsTech.
+* Specialized in IoT, Blockchain (Solidity, Web3) and Docker.
 ..more on www.wavect.io/#services
 
 Some key facts to keep it simple: 
