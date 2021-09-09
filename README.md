@@ -1,12 +1,11 @@
-**Software & DevOps Engineer specialized on GovTech (e.g. IoT), FinTech (e.g. Blockchain) & SportsTech.**
+**Software & DevOps Engineer specialized in Blockchain, IoT and Docker.**
 Reach out if you need help with your mobile/web application, Docker/Kubernetes, IoT or have an interesting project in your mind! Would love to hear about your vision.
 
 Offering..
-* Technical workshops about Docker, IT-Security, Software-Development/Engineering and IoT.
-* Software Development/Engineering in ~10 programming languages
+* Technical workshops about Blockchain, IoT, Docker, IT-Security and Software-Development/Engineering.
 * Technical consultancy & business model evaluation for startups & companies of all sizes.
 * DevOps: Docker, Kubernetes (also having experience with Windows Containers), ..
-* Specialized in IoT, Blockchain (Solidity, Web3) and Docker.
+* Specialized in IoT, Blockchain (Solidity Smart Contracts, Web3) and Docker.
 ..more on www.wavect.io/#services
 
 Some key facts to keep it simple: 
@@ -15,9 +14,9 @@ Some key facts to keep it simple:
 * Led a social-tech startup of 5-7 people.
 * Worked in a blockchain (DID) startup as CMO & software engineer.
 * Economic (commercial school, investing, trading) & sporty/medical background (ambulance man, founded Calisthenics society, ..)
-* Docker & clean code advocate.
+* Docker, Blockchain & clean code advocate.
 * Transparency, honesty & maintainability have hightest priority.
-* Actively investing & trading (stocks, commodities, cryptos, ...)
+* Actively investing & trading (stocks, commodities, crypto, ...)
 * Hobby Acrobat, Calisthenics, Bodybuilding
 ..more about me: www.wavect.io/#about
 
