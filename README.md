@@ -1,4 +1,4 @@
-**Software & DevOps Engineer specialized in Blockchain, IoT and Docker.**
+**Software Engineer specialized in Blockchain, Smart City and Docker.**
 
 Reach out if you need help with your mobile/web application, Docker/Kubernetes, IoT or have an interesting project in your mind! Would love to hear about your vision.
 
