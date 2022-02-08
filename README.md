@@ -7,7 +7,7 @@ Offering..
 * Technical consultancy & business model evaluation for startups & companies of all sizes.
 * DevOps: Docker, Kubernetes (also having experience with Windows Containers), ..
 * Specialized in IoT, Blockchain (Solidity Smart Contracts, Web3) and Docker.
-..more on www.wavect.io/#services
+..more on https://wavect.io/#services
 
 Some key facts to keep it simple: 
 * Programming since the age of 13.
@@ -19,10 +19,10 @@ Some key facts to keep it simple:
 * Transparency, honesty & maintainability have hightest priority.
 * Actively investing & trading (stocks, commodities, crypto, ...)
 * Hobby Acrobat, Calisthenics, Bodybuilding
-..more about me: www.wavect.io/#about
+..more about me: https://wavect.io/#about
 
 Links: 
-* Website: www.wavect.io
+* Website: https://wavect.io
 * LinkedIn: @wsdt
 * Instagram: @wavect.io 
 * Podcast on Anchor: @wavect
