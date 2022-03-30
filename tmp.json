@@ -1,0 +1,8 @@
+{
+	"name": "Asset Name",
+	"description": "Lorem ipsum...",
+	"image": "https://images.pexels.com/photos/10560093/pexels-photo-10560093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+	"properties": {
+		"simple_property": "example value"
+	}
+}
