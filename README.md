@@ -6,6 +6,7 @@ Offering..
 * Technical Project management (leading developer teams, etc.). 
 * Workshops about Blockchain, Docker, Smart-Contracts, DApps, L2s, ...
 * Consultancy & Advisory
+
 ..more on https://wavect.io/#services
 
 Some key facts to keep it simple: 
