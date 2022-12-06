@@ -30,4 +30,4 @@ Links:
 * TikTok: [@wavect.io](https://www.tiktok.com/@wavect.io?lang=de-DE)
 * Facebook: [@wavect](https://facebook.com/wavect)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsdt&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsdt&show_icons=true&title_color=449ca0&text_color=81c5c8&icon_color=449ca0&border_color=449ca0&bg_color=cccccc)
