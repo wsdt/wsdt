@@ -29,3 +29,5 @@ Links:
 * Podcast on Anchor: [@wavect](https://anchor.fm/wavect)
 * TikTok: [@wavect.io](https://www.tiktok.com/@wavect.io?lang=de-DE)
 * Facebook: [@wavect](https://facebook.com/wavect)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsdt&show_icons=true&theme=dracula)
