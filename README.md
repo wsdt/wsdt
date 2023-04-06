@@ -3,6 +3,7 @@
 
 Offering..
 * Smart-Contract & DApp development -> DeFi, Metaverse, NFT, Utility/Security-Tokens, etc.
+* Product Management
 * Technical Project management (leading developer teams, etc.). 
 * Workshops about Blockchain, Docker, Smart-Contracts, DApps, L2s, ...
 * Consultancy & Advisory
